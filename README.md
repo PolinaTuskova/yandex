@@ -5,3 +5,5 @@
 - **project7:** hypothesis prioritization, A/B-test
 
 - **project8:** SQL
+
+- **dashboard:** dashboard
